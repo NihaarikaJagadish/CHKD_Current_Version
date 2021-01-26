@@ -1,0 +1,28 @@
+import 'package:firebase_auth/firebase_auth.dart';
+
+//String hostName = 'http://18.220.186.21:3000';
+String hostName = 'http://ffb1db3aafc8.ngrok.io';
+String userName;
+String firebaseUserID;
+String pushTokenGlobal;
+String preOpName;
+String preOpEmail;
+String preOpPhone;
+String preOpDOB;
+FirebaseAuth firebaseAuthGlobal = FirebaseAuth.instance;
+FirebaseUser user;
+String UT;
+String patientName;
+String patientEmail;
+String patientUUID;
+String patientDOB;
+String patientContact;
+String surgeonUUID;
+String surgeryName;
+List displayData;
+List surgeryTypeNames;
+List surgeonNames = [];
+List badgeCount = [];
+List venueList;
+String currentStatus;
+int messagesState = 0;

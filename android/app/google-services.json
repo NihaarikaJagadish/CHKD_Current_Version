@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712412435401",
+    "firebase_url": "https://chkdsurgery-34cc1.firebaseio.com",
+    "project_id": "chkdsurgery-34cc1",
+    "storage_bucket": "chkdsurgery-34cc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712412435401:android:aa04f5ce577d716c368e18",
+        "android_client_info": {
+          "package_name": "com.odu.handson.surgerychkd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712412435401-91bv4erhkjlie3u9tcbohupou9k1r04v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odu.handson.surgerychkd",
+            "certificate_hash": "cd189d84cd47e00be3c6e3edc815f5dc7927f028"
+          }
+        },
+        {
+          "client_id": "712412435401-atu5qvtmrn6ddrd9iai8h9btnspsa4t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7HMTg54KDzPGeYOSfPWdyf84hutNDtCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712412435401-atu5qvtmrn6ddrd9iai8h9btnspsa4t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
